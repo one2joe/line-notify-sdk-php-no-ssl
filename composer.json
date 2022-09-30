@@ -1,13 +1,13 @@
 {
-    "name": "yidas/line-notify-sdk",
+    "name": "one2joe/line-notify-sdk-php-no-ssl",
     "description": "LINE Notify SDK for PHP",
     "keywords": ["LINE Notify", "api", "php", "sdk", "LINE SDK"],
-    "homepage": "https://github.com/yidas/line-notify-sdk-php",
+    "homepage": "https://github.com/one2joe/line-notify-sdk-php-no-ssl",
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/yidas/line-notify-sdk-php/issues",
-        "source": "https://github.com/yidas/line-notify-sdk-php"
+        "issues": "https://github.com/one2joe/line-notify-sdk-php-no-ssl/issues",
+        "source": "https://github.com/one2joe/line-notify-sdk-php-no-ssl"
     },
     "require": {
         "php": ">=5.4",
