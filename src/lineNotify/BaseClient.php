@@ -60,7 +60,7 @@ class BaseClient
             // 'timeout'  => 6.0,
             'headers' => $headers,
             'http_errors' => $this->debug,
-            'verify' => false
+            'verify' => false,
         ]);
 
         return $this;
